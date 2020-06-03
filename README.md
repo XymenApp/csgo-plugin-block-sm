@@ -1,4 +1,5 @@
 # SM-Blocker Plugin
+Block meta and sm commands like sm plugins and meta list. To protect server plugins for public viewing.
 
 # Installation
 - Install [PTaH](https://ptah.zizt.ru/) in your server 
